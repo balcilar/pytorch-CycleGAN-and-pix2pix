@@ -29,7 +29,7 @@ import time
 import torchvision
 import torch
 import matplotlib.pyplot as plt
-%matplotlib inline
+#%matplotlib inline
 
 def showMatplotImages(model):
 
